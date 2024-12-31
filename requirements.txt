@@ -1,0 +1,9 @@
+streamlit==1.32.0
+pandas==2.2.0
+plotly==5.18.0
+numpy==1.26.3
+sqlite3-api==2.0.1
+python-dateutil==2.8.2
+plotly-express
+twilio
+schedule
